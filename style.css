@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: rgb(190, 255, 255);
+
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 360%;
+}
+
+p {
+  font-size: 200%;
+}
